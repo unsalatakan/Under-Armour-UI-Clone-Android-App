@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Under Armour UI</string>
+    <string name="banner2context">İster yüksek yoğunluklu interval antremanla ısınıyor olun, iste 8k koşu için asfalta çıkıyor olun, bu ayakkabılar her gün karşınıza çıkıyor. Senaryoyu değiştirdik ve UA HOVR™ Infinite 4 ü, elinizden gelenin en iyisini yapmanıza yardımcı olmak için daha hafif ve daha güvenli hissedecek şekilde geliştirdik.</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
