@@ -1,4 +1,4 @@
 # Under-Armour-UI-Clone-Android-App
 
-<img src="https://user-images.githubusercontent.com/45185182/196051789-08a14673-14e3-4a98-92c8-43c214e78044.png" width="412">
-<img src="https://user-images.githubusercontent.com/45185182/196051795-bb307a79-7ab0-4e6d-ad12-5e4f27be7bb1.png" width="412">
+<img src="https://user-images.githubusercontent.com/45185182/196053281-132d0698-cc12-4ff0-b262-27dfb35328ff.png" width="412">
+<img src="https://user-images.githubusercontent.com/45185182/196053287-96cc2b72-8f76-4f88-b578-53c6754fa86c.png" width="412">
